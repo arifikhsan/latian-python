@@ -1,0 +1,7 @@
+'aaa'.count('a')
+'sd'.isnumeric()
+'1234'.isnumeric()
+int('123')
+' '.join(['this', 'is', 'a'])
+'...'.join(['this', 'is', 'a'])
+'this is example'.split()
