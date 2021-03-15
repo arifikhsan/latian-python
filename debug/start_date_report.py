@@ -6,9 +6,6 @@ import requests
 
 FILE_URL = "https://raw.githubusercontent.com/google/it-cert-automation-practice/master/Course4/Lab4/employees-with-date.csv"
 
-# def get_file_lines(url):
-
-
 def download_file(url):
     """Returns the lines contained in the file at the given URL"""
 
